@@ -3,7 +3,7 @@ A useful KeyManager class written in Java. Please feel free to use it in your ga
 
 Just add the KeyManager update() function to your main Thread and you are good to go!
 
-And do not forget to register the KeyListener to your ContentPane.
+And do not forget to register the KeyListener to your Panel.
 
 Simple example:
 
