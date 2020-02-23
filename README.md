@@ -3,9 +3,11 @@ A useful KeyManager class written in Java. Please feel free to use it in your ga
 
 Just add the KeyManager update() function to your main Thread and you're good to go!
 
-And don't forget to register the KeyManager class as a KeyListener to your Panel.
+And don't forget to register the KeyManager class as a KeyListener to your Panel:
 
-Simple example:
+    addKeyListener(new KeyManager());
+
+Usage example:
 
     -> Player.java
       
