@@ -1,7 +1,9 @@
 # KeyManager
 A useful KeyManager class written in Java. Please feel free to use it in your games or whatever.
 
-Just add the KeyManager update() function to your main Thread and you are good to go! And do not forget to register the KeyListener.
+Just add the KeyManager update() function to your main Thread and you are good to go!
+
+And do not forget to register the KeyListener to your ContentPane.
 
 Simple example:
 
